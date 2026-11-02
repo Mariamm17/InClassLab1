@@ -69,9 +69,7 @@ public class Problem1Inclass {
 	public void setgradeValue3() {
 		this.gradeValue = "70";
 	}
-	/**
 	public void setGrade(String grade) {
         this.grade = grade;
-	
-	this(null, null false) 
-	 */
+	}
+}
